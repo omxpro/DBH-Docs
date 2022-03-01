@@ -1,7 +1,7 @@
-site_name: Fosscord Docs
-repo_url: https://github.com/fosscord/fosscord
-edit_uri: https://github.com/fosscord/fosscord-docs/edit/master/docs/
-site_description: Documentation of Fosscord a free open source selfhostable chat, voice and video discord-compatible platform
+site_name: DanBot Hosting Docs
+repo_url: https://github.com/omxpro/DBH-Docs
+edit_uri: https://github.com/omxpro/DBH-Docs/edit/master/docs/
+site_description: Unofficial Documentation of a Free to use Hosting called DBH
 plugins:
   - section-index
   - search
